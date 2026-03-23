@@ -13,7 +13,7 @@ like cats<br>
 [![](https://visitcount.itsvg.in/api?id=s1dl&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/s1dl) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/s1dl) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
